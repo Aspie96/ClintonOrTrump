@@ -1,3 +1,5 @@
+# Adapted from: https://gist.github.com/yanofsky/5436496
+
 names = {
 	"trump": "realDonaldTrump",
 	"clinton": "HillaryClinton",
